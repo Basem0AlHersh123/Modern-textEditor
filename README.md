@@ -5,6 +5,15 @@
 📸 *Screenshots will appear here once added to the `screenshots/` folder.*
 
 ---
+### 📸 Feature Preview Grid
+
+| Feature | Preview |
+|------|------|
+| Dark Theme | ![](screenshots/dark_theme.png) |
+| Light Theme | ![](screenshots/light_theme.png) |
+| Search | ![](screenshots/search.png) |
+| Voice | ![](screenshots/voice_recording.png) |
+| Arabic RTL | ![](screenshots/arabic_text.png) |
 
 ### 🎯 Main Interface (Dark Theme)
 
