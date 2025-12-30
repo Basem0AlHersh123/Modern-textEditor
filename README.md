@@ -1,55 +1,12 @@
 # 🎯 **Modern Text Editor - A Feature-Rich Python GUI Application** 🚀
 
-## 🎨 **Screenshots Gallery**
-
-📸 *Screenshots will appear here once added to the `screenshots/` folder.*
-### 🏠 Main Interface (Dark Theme)
-
-<p align="center">
-  <img src="screenshots/dark_theme.png" width="800">
-</p>
-
-*Clean, modern dark interface with toolbar and editor*
-
----
-
-### ☀️ Light Theme
-
-<p align="center">
-  <img src="screenshots/light_theme.png" width="700">
-</p>
-
-*Elegant light mode for daytime work*
-
----
-
-### 🔍 Advanced Search
-
-<p align="center">
-  <img src="screenshots/search.png" width="700">
-</p>
-
-*Find, replace, and highlighted navigation*
-
----
-
-### 🎤 Voice Features
-
-<p align="center">
-  <img src="screenshots/voice_recording.png" width="650">
-</p>
-
-*Voice-to-text and text-to-speech in action*
-
----
-
-### 🌐 Arabic & English Support
-
-<p align="center">
-  <img src="screenshots/arabic_text.png" width="700">
-</p>
-
-*Automatic RTL / LTR detection*
+<table align="center">
+  <tr>
+    <td align="center"><img src="screenshots/dark_theme.png" width="220"><br>Dark</td>
+    <td align="center"><img src="screenshots/light_theme.png" width="220"><br>Light</td>
+    <td align="center"><img src="screenshots/search.png" width="220"><br>Search</td>
+  </tr>
+</table>
 
 
 ## 🚀 **Quick Start Guide**
