@@ -1,10 +1,36 @@
 # 🎯 **Modern Text Editor - A Feature-Rich Python GUI Application** 🚀
 
+<h2 align="center">🎨 Screenshots Gallery</h2>
+
 <table align="center">
   <tr>
-    <td align="center"><img src="screenshots/dark_theme.png" width="220"><br>Dark</td>
-    <td align="center"><img src="screenshots/light_theme.png" width="220"><br>Light</td>
-    <td align="center"><img src="screenshots/search.png" width="220"><br>Search</td>
+    <td align="center">
+      <img src="screenshots/dark_theme.png" width="250"><br>
+      <b>Dark Theme</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/light_theme.png" width="250"><br>
+      <b>Light Theme</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/search.png" width="250"><br>
+      <b>Advanced Search</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="screenshots/voice_recording.png" width="250"><br>
+      <b>Voice Features</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/arabic_text.png" width="250"><br>
+      <b>Arabic / RTL Support</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/dark_theme.png" width="250"><br>
+      <b>Main Editor</b>
+    </td>
   </tr>
 </table>
 
