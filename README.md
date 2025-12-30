@@ -3,55 +3,53 @@
 ## 🎨 **Screenshots Gallery**
 
 📸 *Screenshots will appear here once added to the `screenshots/` folder.*
+### 🏠 Main Interface (Dark Theme)
 
----
-### 📸 Feature Preview Grid
+<p align="center">
+  <img src="screenshots/dark_theme.png" width="800">
+</p>
 
-| Feature | Preview |
-|------|------|
-| Dark Theme | ![](screenshots/dark_theme.png) |
-| Light Theme | ![](screenshots/light_theme.png) |
-| Search | ![](screenshots/search.png) |
-| Voice | ![](screenshots/voice_recording.png) |
-| Arabic RTL | ![](screenshots/arabic_text.png) |
-
-### 🎯 Main Interface (Dark Theme)
-
-![Dark Theme](screenshots/dark_theme.png)
-
-*Professional dark interface with intuitive toolbar and clean text area*
+*Clean, modern dark interface with toolbar and editor*
 
 ---
 
 ### ☀️ Light Theme
 
-![Light Theme](screenshots/light_theme.png)
+<p align="center">
+  <img src="screenshots/light_theme.png" width="700">
+</p>
 
-*Elegant light theme perfect for daytime coding sessions*
+*Elegant light mode for daytime work*
 
 ---
 
 ### 🔍 Advanced Search
 
-![Search](screenshots/search.png)
+<p align="center">
+  <img src="screenshots/search.png" width="700">
+</p>
 
-*Search dialog with highlighted matches and navigation controls*
+*Find, replace, and highlighted navigation*
 
 ---
 
 ### 🎤 Voice Features
 
-![Voice Recording](screenshots/voice_recording.png)
+<p align="center">
+  <img src="screenshots/voice_recording.png" width="650">
+</p>
 
-*Live voice-to-text conversion and text-to-speech in action*
+*Voice-to-text and text-to-speech in action*
 
 ---
 
-### 🌐 Multi-Language Support
+### 🌐 Arabic & English Support
 
-![Arabic Text](screenshots/arabic_text.png)
+<p align="center">
+  <img src="screenshots/arabic_text.png" width="700">
+</p>
 
-*Automatic Arabic (RTL) and English (LTR) text direction handling*
+*Automatic RTL / LTR detection*
 
 
 ## 🚀 **Quick Start Guide**
